@@ -2,16 +2,18 @@
 #movieDesc {
     display: flex;
     flex-direction: column;
-
 }
+
 img {
       height:25rem;
-      width: 25rem;     
+      width: 25rem;  
+      vertical-align: top;   
 }
 
 h1 {
     display: flex;
     align-items: center;
+    vertical-align: top;
 }
 
 #button {
