@@ -13,5 +13,9 @@ fetch ("http://localhost:3000/films")
     const images = document.createElement('img')
     images.src = film.poster
     image.appendChild(images)
+
+    const title3 = document.createElement('h1')
+    title3.innertext = film.title
+    image.appendChild(title3)
   
   }))

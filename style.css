@@ -1,0 +1,18 @@
+
+#movieDesc {
+    display: flex;
+    flex-direction: row;
+
+}
+img {
+      height:25rem;
+      width: 25rem;     
+}
+
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
