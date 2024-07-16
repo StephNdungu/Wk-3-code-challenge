@@ -1,7 +1,7 @@
 
 #movieDesc {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
 
 }
 img {
@@ -12,7 +12,10 @@ img {
 h1 {
     display: flex;
     align-items: center;
-    justify-content: center;
 }
 
+#button {
+    border-color: aqua;
+    /*cursor: ;*/
 
+}
